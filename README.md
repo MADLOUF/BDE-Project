@@ -36,5 +36,5 @@ We can also check that our Dag is running correctly through Apache Airflow inter
 ![image](https://user-images.githubusercontent.com/61540992/210101243-29cf7ce3-3476-48d9-b1da-56c4d7612809.png)
 
 
-
+Raport made with PowerBI, after connecting PowerQuery & PowerBI (Available in the github): 
 ![image](https://user-images.githubusercontent.com/61540992/210114705-533b2bac-fafb-4a89-a671-84c9bb909a10.png)
