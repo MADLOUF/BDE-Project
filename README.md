@@ -2,7 +2,7 @@
 
 Setup of a data Pipeline between velib API and Google BigQuery
 
-The point of this project is to build a pipeline using Google Cloud (BigQuery, Airflow) that link velib's API and Google BigQuery.
+The point of this project is to build a pipeline using Google Cloud (BigQuery, Airflow) that link velib's API and Google BigQuery, while also formating the data from a semi-structured format to a structured format.
 
 Velib JSON  : 
 https://velib-metropole-opendata.smoove.pro/opendata/Velib_Metropole/station_status.json
