@@ -15,6 +15,7 @@ Then we can focus on creating our first DAG (Code available in the git repo):
 ![image](https://user-images.githubusercontent.com/61540992/210100350-ccca5a4a-5803-4c00-81da-f9875e99d6c9.png)
 
 Our DAG is composed of 3 différent tasks : 
+
   Fetch_JSON :
   The code defines a function fetch_json that sends an HTTP GET request to the specified URL using the requests library, then saves the response in JSON format to a file  called "data.json". This way we can periodically fetch data from the API to get the newest data for our analysis.
   
