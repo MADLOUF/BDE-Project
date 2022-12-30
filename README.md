@@ -28,8 +28,9 @@ Our DAG is composed of 3 différent tasks :
 fetch_json_task >> json_to_csv_task >> load_task
 
 Before running the DAG, we had to create our dataset and create/configure our table in BigQuery. All values types are set to NUMERICAL.
+As we can see in BigQuery the data was transformed and loaded correctly, it can then be used in a PowerBI project to perform analysis.
 ![image](https://user-images.githubusercontent.com/61540992/210101323-db5ca082-e011-411e-bffc-8a10558a4ccf.png)
 
 
-We can check that our Dag is running correctly through Apache Airflow interface 
+We can also check that our Dag is running correctly through Apache Airflow interface 
 ![image](https://user-images.githubusercontent.com/61540992/210101243-29cf7ce3-3476-48d9-b1da-56c4d7612809.png)
