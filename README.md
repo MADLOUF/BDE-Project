@@ -34,3 +34,7 @@ As we can see in BigQuery the data was transformed and loaded correctly, it can 
 
 We can also check that our Dag is running correctly through Apache Airflow interface 
 ![image](https://user-images.githubusercontent.com/61540992/210101243-29cf7ce3-3476-48d9-b1da-56c4d7612809.png)
+
+
+
+![image](https://user-images.githubusercontent.com/61540992/210114705-533b2bac-fafb-4a89-a671-84c9bb909a10.png)
